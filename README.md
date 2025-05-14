@@ -4,29 +4,23 @@ Making a Casio scientific calculator from scratch with HTML, CSS, and JavaScript
 
 ## Description
 
-This web project aims to simulate the operation and features of a real calculator. It was created for self-improving skills in JavaScript, HTML, and CSS. The front-end design is inspired by a Casio calculator, implementing most of its functions with additional features like sound effects and background customization. However, some functions remain a work in progress due to their complexity. All contributions are appreciated.
+This web project is a browser-based scientific calculator inspired by the classic **Casio** design, built entirely with **HTML**, **CSS**, and **JavaScript**. It aims to simulate the appearance and functionality of a real Casio calculator as closely as possible.
 
-## Screenshots
+The calculator supports a wide range of mathematical operations, including standard arithmetic, trigonometric functions, exponentiation, and more. The interface is carefully designed to mimic the layout and feel of a physical scientific calculator, offering an intuitive experience for users familiar with the original device.
 
-![calculatorImg](https://github.com/marck001/Scientific-Calculator-using-html-js-css/assets/134501961/1b56c30c-2f03-4796-b288-e4fd12594634)
+Key features include:
 
-## Run the Project
+- Realistic Casio-like button layout and design  
+- Keyboard interaction support  
+- Customizable background themes  
+- Sound effects for button feedback  
+- Cursor navigation for editing expressions  
+- Copy-and-paste functionality in place of Shift and Alpha keys  
 
-1. Download the code and the rest of the folders.
-2. Launch the project by opening the `index.html` file.
-   -This link leads you directly to the github host page: https://marck001.github.io/Scientific-Calculator/
-## Usage Instructions
+While most core functions are implemented, a few advanced features such as log with arbitrary base, x/y, S⇔D, RCL, and hyp are still in progress due to their complexity. The project remains open for improvement and contributions.
 
-- Use this calculator mostly to perform basic arithmetic operations.
-- Introduce a numerical value before pressing the function keys.
+Whether you're a student, developer, or enthusiast, this project serves as a fun and practical example of front-end development and functional UI design.
 
-## Notes
+---
 
-- The cursor control key is implemented to move through characters to the right and left.
-- Copy-and-paste features have replaced shift and alpha keys for convenience.
-- Some functions are temporarily omitted, such as log in any base, x/y, S⇔D, RCL, and hyp.
-
-## Contributing
-
-This project is open to contributions from the community. If you have suggestions or would like to contribute by implementing specific calculator functions, your help is highly valued. Feel free to submit pull requests, report issues, or contribute in any way that aligns with the project.
-
+🔗 **Live Demo:** [https://ayan14coins.github.io/Scientific_Calculator_Casio_Copy/](https://ayan14coins.github.io/Scientific_Calculator_Casio_Copy/)
