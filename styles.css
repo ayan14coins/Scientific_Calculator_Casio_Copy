@@ -16,27 +16,6 @@ body {
     background-color: darkslategray;
 }
 
-.github {
-    position: absolute;
-    right: 0;
-    top: 0;
-    padding: 10px;
-}
-
-.github {
-    background-color: rgb(17, 17, 17);
-    border-radius: 0 0 10px 10px;
-}
-
-.github a {
-    color: #dfdadf;
-}
-
-.github a i {
-    color: white;
-    margin-right: 10px;
-}
-
 .container {
     padding: 20px;
     text-align: center;
@@ -198,12 +177,6 @@ button:active {
         padding: 20px;
         border-radius: 20px;
     }
-
-    .github {
-        top: 0;
-        right: 0;
-    }
-
 }
 
 @media screen and (min-width: 768px) {
@@ -212,18 +185,9 @@ button:active {
         border-radius: 20px;
     }
 
-    .github {
-        top: 0;
-        right: 0;
-    }
 }
 
 @media screen and (max-width: 768px) {
-    .github {
-        top: 0;
-        right: 0;
-    }
-
     .container {
         padding: 20px;
         border-radius: 20px;
